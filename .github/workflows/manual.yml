@@ -1,0 +1,5 @@
+/repo
+   ├── scripts/        (tus .ps1)
+   ├── Dockerfile
+   ├── docker-compose.yml (opcional)
+   └── .github/workflows/docker-build.yml
